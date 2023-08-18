@@ -1,16 +1,22 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Bernat, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) 🚀
 
-<!--
-**BernatObrador/BernatObrador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi espacio en GitHub, donde canalizo mi pasión por la programación y el desarrollo de software.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy cursando el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), explorando el mundo de la programación con entusiasmo y dedicación.
+- 💡 Siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades en diferentes lenguajes y tecnologías.
+- 🎮 Me encanta transformar ideas creativas en código, también me encanta trabajar en proyectos relacionados con videojuegos.
+
+## Mis Intereses
+
+- 🌐 Desarrollo web y móvil: Creando experiencias interactivas y útiles.
+- 🔍 Resolución de problemas: Disfruto enfrentando desafíos y encontrando soluciones innovadoras.
+- 🤖 Exploración tecnológica: Siempre al tanto de las últimas tendencias en el mundo de la programación.
+
+## Contacto y Redes Sociales
+
+- 🌐 Explora mis proyectos en [GitHub](https://github.com/BernatObrador) y siéntete libre de colaborar.
+- 📧 Contáctame vía email: [bernatobradormesquida@gmail.com](mailto:bernatobradormesquida@gmail.com).
+
+¡Gracias por visitar mi perfil! Espero que encuentres inspiración y proyectos interesantes mientras exploras. ¡Adelante! 🚀
