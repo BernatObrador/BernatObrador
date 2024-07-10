@@ -1,10 +1,10 @@
-# ¡Hola! 👋 Soy Bernat, estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) 🚀
+# ¡Hola! 👋 Soy Bernat, Desarrollador de Software 🚀
 
 Bienvenido a mi espacio en GitHub, donde canalizo mi pasión por la programación y el desarrollo de software.
 
 ## Sobre mí
 
-- 🌱 Actualmente estoy cursando el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), explorando el mundo de la programación con entusiasmo y dedicación.
+- 🌱 Soy Técnico Superior En Desarrollo de Aplicaciones Multiplataforma.
 - 💡 Siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades en diferentes lenguajes y tecnologías.
 - 🎮 Me encanta transformar ideas creativas en código, también me encanta trabajar en proyectos relacionados con videojuegos.
 
